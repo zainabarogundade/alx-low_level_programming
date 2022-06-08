@@ -4,8 +4,8 @@
  * print_sign - Prints the sign of a number.
  *  @n: The input number as an integer.
  *  Return: 1 is greater than zero. 
- *  	0 if the number is zero,
- *  	-1 if the number is less than zero.
+ *  0 if the number is zero,
+ *  -1 if the number is less than zero.
  */
 int print_sign(int n)
 {
@@ -25,4 +25,4 @@ int print_sign(int n)
 		return (0);
 	}
 	_putchar('\n');
-}
+i}
