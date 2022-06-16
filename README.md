@@ -1,1 +1,1 @@
-This dile contains the description of the repository
+This README.md file contains everything about alx low level programming
